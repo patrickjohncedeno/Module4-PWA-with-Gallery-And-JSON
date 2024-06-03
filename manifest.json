@@ -1,6 +1,6 @@
 {
-  "name": "Welcome to ITST 304 - Mobile Computing",
-  "short_name": "LSPU CCS",
+  "name": "PWA Gallery Application with JSON dataset",
+  "short_name": "PWA Gallery",
   "icons": [{
     "src": "images/logo-ccs-60.png",
       "sizes": "60x60",
